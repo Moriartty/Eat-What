@@ -7,10 +7,10 @@ if('serviceWorker' in navigator) {
 }
 const cacheName = 'eat-what';
 let filesToCache = [
-    '/',
-    '/index.html',
-    'service-worker.js',
-    'manifest.json',
+    // '/',
+    // '/index.html',
+    // 'service-worker.js',
+    // 'manifest.json',
     // 'static/js/jquery.min.js',
     // 'static/js/awardRotate.js',
     // 'static/images/delete.png',
